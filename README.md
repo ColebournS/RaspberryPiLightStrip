@@ -71,14 +71,8 @@ This is a project that uses a raspberry pi, camera, and lightstrip to create a d
 
 ### Built With
 
-- [Next.js](https://nextjs.org/)
-- [React.js](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Angular](https://angular.io/)
-- [Svelte](https://svelte.dev/)
-- [Laravel](https://laravel.com)
-- [Bootstrap](https://getbootstrap.com)
-- [JQuery](https://jquery.com)
+- [RaspberryPi](https://www.raspberrypi.org/)
+- [Python](https://www.python.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
