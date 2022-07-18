@@ -98,16 +98,36 @@ This is an example of how to list things you need to use the software and how to
    git clone https://github.com/ColebournS/RaspberryPiLightStrip.git
    ```
 2. install packages
+ ```sh
+   sudo apt-get install build-essential python-dev
+   ```
+   ```sh
+   sudo pip3 install scons
+   ```
+   ```sh
+    wget https://github.com/jgarff/rpi_ws281x/archive/master.zip && unzip master.zip && cd rpi_ws281x-master && sudo scons && sudo pip3 install rpi_ws281x
+   ```
+    ```sh
+   sudo pip install rpi-ws281x
+   ```
+     ```sh
+   sudo apt-get install scons
+   ```
+    ```sh
+   wget https://github.com/jgarff/rpi_ws281x/archive/master.zip && unzip master.zip && cd rpi_ws281x-master && sudo scons && sudo pip install rpi_ws281x
+   ```
    ```sh
    sudo pip3 install rpi_ws281x adafruit-circuitpython-neopixel
    ```
-   ```sh
+    ```sh
    sudo python3 -m pip install --force-reinstall adafruit-blinka
    ```
 3. Run the Test
    ```sh
    sudo python3 test.py
    ```
+
+  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
