@@ -94,18 +94,20 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/ColebournS/RaspberryPiLightStrip.git
    ```
-3. Install NPM packages
+2. install packages
    ```sh
-   npm install
+   sudo pip3 install rpi_ws281x adafruit-circuitpython-neopixel
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = "ENTER YOUR API";
+   ```sh
+   sudo python3 -m pip install --force-reinstall adafruit-blinka
+   ```
+3. Run the Test
+   ```sh
+   sudo python3 test.py
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
