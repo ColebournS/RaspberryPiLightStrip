@@ -105,9 +105,6 @@ This is an example of how to list things you need to use the software and how to
    sudo apt-get install scons
    ```
    ```sh
-   wget https://github.com/jgarff/rpi_ws281x/archive/master.zip && unzip master.zip && cd rpi_ws281x-master && sudo scons && sudo pip install rpi_ws281x
-   ```
-   ```sh
    sudo pip3 install adafruit-circuitpython-neopixel
    ```
     ```sh
