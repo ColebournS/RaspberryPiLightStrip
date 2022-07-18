@@ -98,7 +98,7 @@ This is an example of how to list things you need to use the software and how to
    git clone https://github.com/ColebournS/RaspberryPiLightStrip.git
    ```
 2. install packages
- ```sh
+   ```sh
    sudo apt-get install build-essential python-dev
    ```
    ```sh
@@ -107,13 +107,13 @@ This is an example of how to list things you need to use the software and how to
    ```sh
     wget https://github.com/jgarff/rpi_ws281x/archive/master.zip && unzip master.zip && cd rpi_ws281x-master && sudo scons && sudo pip3 install rpi_ws281x
    ```
-    ```sh
+   ```sh
    sudo pip install rpi-ws281x
    ```
-     ```sh
+   ```sh
    sudo apt-get install scons
    ```
-    ```sh
+   ```sh
    wget https://github.com/jgarff/rpi_ws281x/archive/master.zip && unzip master.zip && cd rpi_ws281x-master && sudo scons && sudo pip install rpi_ws281x
    ```
    ```sh
