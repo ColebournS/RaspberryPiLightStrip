@@ -102,15 +102,6 @@ This is an example of how to list things you need to use the software and how to
    sudo apt-get install build-essential python-dev
    ```
    ```sh
-   sudo pip3 install scons
-   ```
-   ```sh
-    wget https://github.com/jgarff/rpi_ws281x/archive/master.zip && unzip master.zip && cd rpi_ws281x-master && sudo scons && sudo pip3 install rpi_ws281x
-   ```
-   ```sh
-   sudo pip install rpi-ws281x
-   ```
-   ```sh
    sudo apt-get install scons
    ```
    ```sh
