@@ -117,7 +117,7 @@ This is an example of how to list things you need to use the software and how to
    wget https://github.com/jgarff/rpi_ws281x/archive/master.zip && unzip master.zip && cd rpi_ws281x-master && sudo scons && sudo pip install rpi_ws281x
    ```
    ```sh
-   sudo pip3 install rpi_ws281x adafruit-circuitpython-neopixel
+   sudo pip3 install adafruit-circuitpython-neopixel
    ```
     ```sh
    sudo python3 -m pip install --force-reinstall adafruit-blinka
