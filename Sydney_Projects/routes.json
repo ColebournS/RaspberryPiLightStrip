@@ -1,0 +1,100 @@
+{
+  "routes": [
+    {
+      "num": 10,
+      "name": "Cornell - Commons"
+    },
+    {
+      "num": 11,
+      "name": "Ithaca College - Commons"
+    },
+    {
+      "num": 13,
+      "name": "IHS - Northside - Commons"
+    },
+    {
+      "num": 14,
+      "name": "West Hill - Hospital - Commons"
+    },
+    {
+      "num": 15,
+      "name": "Southside Shopper"
+    },
+    {
+      "num": 17,
+      "name": "TCAT - Fall Creek - Commons"
+    },
+    {
+      "num": 20,
+      "name": "Enfield - Commons"
+    },
+    {
+      "num": 21,
+      "name": "Trumansburg - Commons"
+    },
+    {
+      "num": 22,
+      "name": "Parks - Summer"
+    },
+    {
+      "num": 30,
+      "name": "Commons - Cornell - Shops at Ithaca Mall"
+    },
+    {
+      "num": 31,
+      "name": "Northeast Ithaca - Etna"
+    },
+    {
+      "num": 32,
+      "name": "Airport - Cornell - Commons"
+    },
+    {
+      "num": 36,
+      "name": "South Lansing - Cornell - Commons"
+    },
+    {
+      "num": 37,
+      "name": "North Lansing - Cornell - Commons"
+    },
+    {
+      "num": 40,
+      "name": "Groton - Freeville- Cornell - Commons"
+    },
+    {
+      "num": 43,
+      "name": "TC3 - Varna - Cornell - Commons"
+    },
+    {
+      "num": 51,
+      "name": "Commons - Cornell - EHP - Eastern Height"
+    },
+    {
+      "num": 52,
+      "name": "Caroline - Brooktondale - Commons"
+    },
+    {
+      "num": 53,
+      "name": "Ellis Hollow - Brooktondale"
+    },
+    {
+      "num": 65,
+      "name": "Danby"
+    },
+    {
+      "num": 67,
+      "name": "Newfield - Commons"
+    },
+    {
+      "num": 77,
+      "name": "Mall Lansing-Etna"
+    },
+    {
+      "num": 81,
+      "name": "Cornell Daytime Campus Service"
+    },
+    {
+      "num": 82,
+      "name": "Cornell Campus Service - East Hill Offic"
+    }
+  ]
+}
